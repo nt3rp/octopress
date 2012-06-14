@@ -77,6 +77,16 @@ We also went out for lunch where he told us a bit more about what it's like to b
 
 All in all, it was a pretty neat experience. I hope that I get the chance to go again some day.
 
+**EDIT:** Special thanks to Christian, who has given permission to post videos from the recording session! Just a few examples of what its like to record lines as a voice actor.
+
+{% youtube yl_IOW_J7W8 %}
+
+{% youtube kVWot7eKSsM %}
+
+{% youtube 9leyzYsNjiM %}
+
+{% youtube XGAs516hnY4 %}
+
 [Studio306]: http://studio306.net/
 [Heather]: http://tentacle-tarte.com/info.html
 [TentacleTarte]: http://tentacle-tarte.com
