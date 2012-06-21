@@ -40,7 +40,7 @@ I've said a lot about what he told us, and it seems like a long time, but we wer
 
 {% img right /images/post/christian-and-ron.jpg 300 "Denise (left), Ron (center) and Christian (right)"%}
 
-What got me really excited was, while we were waiting, we had the opportunity to meet several other voice actors who happened to be at the studio, such as [Ron Rubin][RonRubin] (*Artemis* from the English adapation of *Sailor Moon*), [Scott McCord][ScottMcCord] (*Skull Boy* from *Ruby Gloom*) and one of Christian's co-workers, [Denise Oliver][DeniseOliver] (*Kitty* on *Sidekick*). It was interesting to hear them just talk about the things that they were working on, especially when Ron was talking about what to do at a convention; I guess he had never been to one, and the *Sailor Moon* series passed its 28th anniversary? We didn't get the chance to meet [Stephanie Beard][StephanieBeard] (*Vana* from *Sidekick*, and also a previous host of YTV's *the Zone* as *Sugar*).
+What got me really excited was, while we were waiting, we had the opportunity to meet several other voice actors who happened to be at the studio, such as [Ron Rubin][RonRubin] (*Artemis* from the English adapation of *Sailor Moon*), [Scott McCord][ScottMcCord] (*Skull Boy* from *Ruby Gloom*) and one of Christian's co-workers, [Denise Oliver][DeniseOliver] (*Kitty* on *Sidekick*). It was interesting to hear them just talk about the things that they were working on, especially when Ron was talking about what to do at a convention; I guess he had never been to one, and the *Sailor Moon* series passed its 28th anniversary? We didn't get the chance to meet [Stephanie Mills][StephanieMills] (*Vana* from *Sidekick*).
 
 After that, the magic happened. They sat us down on a comfortable couch in behind the recording booth, but in front of the recording staff.
 
@@ -52,10 +52,10 @@ At first, I wasn't sure who all the people in the room were, but afterwords, Chr
 - The voice acting director 
 - The director (e.g. the director of *Sidekick*)
 - The sound technician
-- The recording assistant
+- The recording assistant (Steph Misayo Seki)
 - The coordinator
 
-...I wish I would have gotten their names, but unfortunately, I didn't. I also wish I could post a video of the recording session, but unfortunately, I can't (as far as I know), and pictures like this...
+...I wish I would have gotten all their names, but unfortunately, I didn't. I also wish I could post a video of the recording session, but unfortunately, I can't (as far as I know), and pictures like this...
 
 {% img center /images/post/recording.jpg 500%}
 
@@ -95,5 +95,5 @@ All in all, it was a pretty neat experience. I hope that I get the chance to go 
 [RonRubin]: http://en.wikipedia.org/wiki/Ron_Rubin_(voice_actor)
 [ScottMcCord]: http://en.wikipedia.org/wiki/Scott_McCord
 [DeniseOliver]: http://en.wikipedia.org/wiki/Denise_Oliver
-[StephanieBeard]: http://en.wikipedia.org/wiki/Stephanie_Beard
+[StephanieMills]: http://www.imdb.com/name/nm0590195/
 [ScaredySquirrel]: http://en.wikipedia.org/wiki/Scaredy_Squirrel
