@@ -11,7 +11,7 @@ In a much narrower field of view, it can often be difficult to make hard decisio
 
 I've made an effort to give this blog focus, and suffice to say, I've meandered a lot, and I will likely meander quite a bit in the future as well, but I'm working towards focussing, and narrowing down what it is that I want to say.
 
-After having a chat with [a few](http://goboxbox.blogspot.ca/) [good friends](http://malachiconstantjr.wordpress.com/) over the weekend, we talked a lot about the different possibilities that exist such as focussing on career advice. I don't entirely think that I'm qualified to talk about career advice, but if people are interested in more of that, or asking questions, I'd be glad to contribute. Even though I am apprehensive about it, a quick look at [my archives](/blog/archives) shows a clear predeliction for topics related to:
+After having a chat with [a few](http://goboxbox.blogspot.ca/) [good friends](http://malachiconstantjr.wordpress.com/) over the weekend, we talked a lot about the different possibilities that exist such as focussing on career advice. I don't entirely think that I'm qualified to talk about career advice, but if people are interested in more of that, or asking questions, I'd be glad to contribute. Even though I am apprehensive about it, a quick look at [my archives](/archives) shows a clear predeliction for topics related to:
 - Startups
 - Job search
 - General motivation

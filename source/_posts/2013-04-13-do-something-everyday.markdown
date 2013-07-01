@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-I'm not one to toot my own horn, but [I may have covered this before](/blog/2012/06/04/the-importance-of-doing/). Please, bear with me, as I feel it necessary to reiterate the point.
+I'm not one to toot my own horn, but [I may have covered this before](/2012/06/04/the-importance-of-doing/). Please, bear with me, as I feel it necessary to reiterate the point.
 
 Originally, I was going to call this **Why you should do something everyday**, but today I'm taking the imperative approach instead.
 
@@ -54,7 +54,7 @@ This time last year, I was working on a [crappy script to check hotel availabili
 
 I am not the most adventurous person in the world, and some would say I'm pretty set in my ways. I would say that some people shouldn't say such mean things, but then I wouldn't get to make straw man arguments.
 
-However, when I work on something, something for me; not for work, or anything else I'm *obligated* to do; I can try something new. Write a novel in a month? [How hard can that be?](/blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) Make a proton-pack for Halloween? What do you mean spray paint dissolves polystyrene!? Write a blog every week? I GET IT GUYS, I'M NOT PERFECT.
+However, when I work on something, something for me; not for work, or anything else I'm *obligated* to do; I can try something new. Write a novel in a month? [How hard can that be?](/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) Make a proton-pack for Halloween? What do you mean spray paint dissolves polystyrene!? Write a blog every week? I GET IT GUYS, I'M NOT PERFECT.
 
 When you take the time to work on *something*, you don't generally have any constraints. You can try something you've never tried before, and probably learn a lot too. You don't need to worry about failure; why do that? **You learn from failure. Embrace the failures.**
 

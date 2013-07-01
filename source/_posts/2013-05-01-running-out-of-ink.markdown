@@ -5,15 +5,15 @@ date: 2013-05-01 16:20
 comments: true
 categories: 
 ---
-I might have mentioned that you should [do something every day](/blog/2013/04/13/do-something-everyday/). Lately, I haven't been the best example of this, but its a goal I strive for nonetheless. However, there comes a time when you just run out of steam; the ink pot is dry, for the time being.
+I might have mentioned that you should [do something every day](/2013/04/13/do-something-everyday/). Lately, I haven't been the best example of this, but its a goal I strive for nonetheless. However, there comes a time when you just run out of steam; the ink pot is dry, for the time being.
 
-Now, under the circumstances, you might reflect back on past entries of mine, tell me that I'm full of *something* (hint: it's brown and sticky!), and that I should stuff it and [get back to work](/blog/2012/06/04/the-importance-of-doing/). To that I would say, "Sorry mister boss man! It won't happen again, honest!"
+Now, under the circumstances, you might reflect back on past entries of mine, tell me that I'm full of *something* (hint: it's brown and sticky!), and that I should stuff it and [get back to work](/2012/06/04/the-importance-of-doing/). To that I would say, "Sorry mister boss man! It won't happen again, honest!"
 
 Ha ha ha ha ha.
 
 ...
 
-I do seem to put an emphasis on [getting things done](/blog/2012/06/04/the-importance-of-doing/), but there are times when you get worn out, or just tired of doing something, perhaps even bored with it. You might run out of ideas for your blog, for example, because you can't think of anything else job-related to talk about, and you aren't looking so you don't really have anything to add.
+I do seem to put an emphasis on [getting things done](/2012/06/04/the-importance-of-doing/), but there are times when you get worn out, or just tired of doing something, perhaps even bored with it. You might run out of ideas for your blog, for example, because you can't think of anything else job-related to talk about, and you aren't looking so you don't really have anything to add.
 
 *Ahem*
 
@@ -45,7 +45,7 @@ Move on!
 
 [{% img right /images/post/jlcm-duh.jpg 300 %}](http://www.digitalpimponline.com/strips.php?title=movie&id=24)
 
-Uh-Duuuuuhhhh. [Don't beat yourself up](/blog/2012/06/06/dont-beat-yourself-up/).
+Uh-Duuuuuhhhh. [Don't beat yourself up](/2012/06/06/dont-beat-yourself-up/).
 
 <br style='clear: both;'/>
 
@@ -55,7 +55,7 @@ Uh-Duuuuuhhhh. [Don't beat yourself up](/blog/2012/06/06/dont-beat-yourself-up/)
 
 Didn't I just suggest taking a break? Well, yeah, but different strategies work at different times. I want to post a blog entry every week, so, I can't really take a break if I want to accomplish that (see *thinking about why you're doing what you're doing* above).
 
-Often times, getting something started is difficult, but continuing is easy. If you're doing something like writing, you can often get unstuck by just writing something, even if it is the wrong things. Or, [as I did for NaNoWriMo](/blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) just sit down and do something for some time period.
+Often times, getting something started is difficult, but continuing is easy. If you're doing something like writing, you can often get unstuck by just writing something, even if it is the wrong things. Or, [as I did for NaNoWriMo](/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) just sit down and do something for some time period.
 
 ## Conclussion
 
