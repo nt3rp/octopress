@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-[I might have mentioned](blog/2013/05/22/why-you-shouldnt-have-a-bad-time/) going to Anime North a few weeks ago. I might have also mentioned, as part of that, the hotel troubles that I had gone through before hand.
+[I might have mentioned](/blog/2013/05/22/why-you-shouldnt-have-a-bad-time/) going to Anime North a few weeks ago. I might have also mentioned, as part of that, the hotel troubles that I had gone through before hand.
 
 Organizing everything for attending a convention can be stressful enough as is: Getting enough people for a group, booking the right number of hotels rooms, figuring out transportation, distributing the passes, collecting all the cash; it can be a serious pain, but it is one that I typically take in stride.
 

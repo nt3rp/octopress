@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-It's not surprising that I've been talking about [how we lost a team member lately](blog/2013/05/22/why-you-shouldnt-have-a-bad-time/). Firing people just sucks, for everyone involved. *It sucks*, and as much as I had said that [I'm over it](blog/2013/05/28/in-over-your-head/) (which I am), there's one little lesson that I've been leaving off until now.
+It's not surprising that I've been talking about [how we lost a team member lately](/blog/2013/05/22/why-you-shouldnt-have-a-bad-time/). Firing people just sucks, for everyone involved. *It sucks*, and as much as I had said that [I'm over it](/blog/2013/05/28/in-over-your-head/) (which I am), there's one little lesson that I've been leaving off until now.
 
 I think it's important that I preface this 'advice', as I should preface all 'advice':
 

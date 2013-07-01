@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-A recurring theme on this blog is that of careers and the job search... not because I'm constantly looking or anything, but mostly because of my own track record, and how I seem to have accumulated some experience on the matter. Ocassionally, [I take people down a notch](blog/2013/03/24/you-are-not-special/) (unintentionally) or [issue imperatives](blog/2013/04/13/do-something-everyday/), or even [vent](blog/2012/07/03/uprooted-and-in-california/) or just [observe](blog/2012/07/22/living-in-america-driving/). Most of the time, these posts just end up read by friends and family, which I appreciate, with the ocassional post [reaching a lot further](blog/2012/06/12/a-day-in-the-life-voice-actor/).
+A recurring theme on this blog is that of careers and the job search... not because I'm constantly looking or anything, but mostly because of my own track record, and how I seem to have accumulated some experience on the matter. Ocassionally, [I take people down a notch](/blog/2013/03/24/you-are-not-special/) (unintentionally) or [issue imperatives](/blog/2013/04/13/do-something-everyday/), or even [vent](/blog/2012/07/03/uprooted-and-in-california/) or just [observe](/blog/2012/07/22/living-in-america-driving/). Most of the time, these posts just end up read by friends and family, which I appreciate, with the ocassional post [reaching a lot further](/blog/2012/06/12/a-day-in-the-life-voice-actor/).
 
 ... that is a *lot* of self-references...
 
@@ -26,7 +26,7 @@ Let people know about what you've done! You don't need to brag, but share what y
 
 **So what?**
 
-I'm certainly [capable of writing a book](blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/), but the fact of the matter is that someone reached out to *me*; someone approached *me* about writing a book as a result of my [stackoverflow account](http://stackoverflow.com/users/165988/nt3rp).
+I'm certainly [capable of writing a book](/blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/), but the fact of the matter is that someone reached out to *me*; someone approached *me* about writing a book as a result of my [stackoverflow account](http://stackoverflow.com/users/165988/nt3rp).
 
 *Someone noticed me.* Of no particular action or promotion of my own.
 
