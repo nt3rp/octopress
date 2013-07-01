@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-As you may know, [the last couple weeks have been hectic](), to say the least. The combination of different stresses from work and hotel shenanigans really got me down.
+As you may know, [the last couple weeks have been hectic](blog/2013/05/22/why-you-shouldnt-have-a-bad-time/), to say the least. The combination of different stresses from work and hotel shenanigans really got me down.
 
 For the first time, in a very long time, I felt in over my head.
 
@@ -14,7 +14,7 @@ I think grumpy cat has something to say about that:
 
 [{% img center http://cdn.memegenerator.net/instances/400x/38301530.jpg %}](http://memegenerator.net/instance/38301530)
 
-First off, notice the past tense? I *felt* in over my head. I am no longer feeling that way because **I'm over it**. Over the course of the last weekend, I had the chance to attend [Anime North](http://animenorth.com), which is often an uplifting experience to me, [as I may have mentioned](/blog/2012/05/28/passion-matters/). The newfound optimism from the trip has given me the opportunity to re-examine what that *'in over my head'* feeling really means.
+First off, notice the past tense? I *felt* in over my head. I am no longer feeling that way because **I'm over it**. Over the course of the last weekend, I had the chance to attend [Anime North](http://animenorth.com), which is often an uplifting experience to me, [as I may have mentioned](blog/2012/05/28/passion-matters/). The newfound optimism from the trip has given me the opportunity to re-examine what that *'in over my head'* feeling really means.
 
 ## It means knowing and overcoming your limits
 

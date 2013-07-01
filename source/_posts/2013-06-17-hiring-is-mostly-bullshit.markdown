@@ -10,7 +10,7 @@ I was having a conversation with a friend of mine about a possible fit at [our c
 
 "I don't understand why I'm being penalized for not working in my free time," he told me. "It's like the chicken and the egg problem: how do I get experience for a job if I need the job to get experience?"
 
-Ignoring the fact that there are [lots of ways to get experience](/blog/2013/04/13/do-something-everyday/), the point remains that you still need to demonstrate that experience somehow. It got me thinking about the hiring process, specifically ours, but hiring in general.
+Ignoring the fact that there are [lots of ways to get experience](blog/2013/04/13/do-something-everyday/), the point remains that you still need to demonstrate that experience somehow. It got me thinking about the hiring process, specifically ours, but hiring in general.
 
 I decided to revisit some old favourite articles. In particular, I was reading *Steve Yegge's* [Done and Gets Things Smart](http://steve-yegge.blogspot.ca/2008/06/done-and-gets-things-smart.html). After reading that, and reflecting back on a few panels from Anime North, I came to this conclusion:
 
