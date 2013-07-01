@@ -6,9 +6,9 @@ comments: true
 categories: 
 ---
 
-I have never written a book before. [This past November](blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) I managed to write fifty-thousand words, which is by some measure a novel (hence [National Novel Writing Month](http://nanowrimo.org/)), but, at best, was the beginning of a story; barely even a first draft. Aside from this annual foray into writing, the thought of writing a book likely wouldn't have crossed my mind until next November.
+I have never written a book before. [This past November](/blog/2012/12/02/how-to-write-in-fifty-thousand-words-or-more/) I managed to write fifty-thousand words, which is by some measure a novel (hence [National Novel Writing Month](http://nanowrimo.org/)), but, at best, was the beginning of a story; barely even a first draft. Aside from this annual foray into writing, the thought of writing a book likely wouldn't have crossed my mind until next November.
 
-But then [I got noticed](blog/2013/06/09/how-to-get-noticed/).
+But then [I got noticed](/blog/2013/06/09/how-to-get-noticed/).
 
 It *may* just be for a technical book, but its still exciting to me. As I said, I have *never* written a book before.
 
